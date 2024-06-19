@@ -12,7 +12,7 @@ It is data pipeline to load the input file coming on S3 bucket on daily basis us
 
 ## Steps to run 
 
-1.Create bucket with name as telecom-data-glue-analysis in S3
+*1*.Create bucket with name as telecom-data-glue-analysis in S3
 
 2.Create the crawler in glue as telecom-data-cralwer to look for input file under s3 bucket. Once crawler get created run the crawler
 so that it will create metadata table for the input file into glue data catalog
