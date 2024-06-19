@@ -5,7 +5,9 @@ It is data pipeline to load the input file coming on S3 bucket on daily basis us
 ## Tech Stack
 
 **Language:** Python
+
 **Storage:**  S3 bucket
+
 **ETL Service:** AWS GLUE
 
 ## Steps to run 
